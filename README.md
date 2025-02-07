@@ -1,15 +1,21 @@
+# 🔐 Image Encryption & Decryption Tool
 
+This project provides a **simple image encryption and decryption tool** using **pixel manipulation** via **Python** and **Bash scripting**. The tool allows users to:
 
+✅ **Encrypt an image** using XOR operations.  
+✅ **Decrypt an image** using the same XOR key.  
+✅ **Display encrypted and decrypted images** using path-based selection.  
 
+Both **Python** and **Bash** implementations are available for flexibility.
 
 ---
 
 ## 🚀 Features
-- Encrypt and decrypt images using **pixel manipulation techniques**.
-- Available in both **Bash** and **Python**.
-- Supports image preview after encryption and decryption.
-- User-friendly menu-based selection.
-
+- **Encrypt an image** using a user-provided key.
+- **Decrypt an image** using the same key.
+- **Display encrypted & decrypted images**.
+- **Menu-based selection** for easy usage.
+- Works on **Linux, Windows, and macOS**.
 ---
 
 ## 📌 Installation & Usage Guide
@@ -17,7 +23,7 @@
 ### Step 1: Download the Script
 Clone this repository using Git:
 ```bash
-git clone https://github.com/your-username/image-encryption.git
+git clone https://github.com/NIKITATAPALI/PRODIGY_CS_02.git
 ```
 Or manually create the script files:
 ```bash
@@ -105,7 +111,7 @@ Want to contribute? Fork the repo and submit a pull request.
 
 ## 📢 Find Me On:
 <p align="left">
-  <a href="https://github.com/your-username" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/NIKITATAPALI/.git" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
